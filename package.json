@@ -1,0 +1,27 @@
+{
+  "name": "challengesjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArzateCompany/challengesJavascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "challenges",
+    "junior",
+    "jr",
+    "frontend",
+    "platzi"
+  ],
+  "author": "@ArzateCompany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArzateCompany/challengesJavascript/issues"
+  },
+  "homepage": "https://github.com/ArzateCompany/challengesJavascript#readme"
+}
